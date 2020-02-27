@@ -1,0 +1,10 @@
+name = "breakpad_jll"
+uuid = "f16790e9-24a0-57e4-93e4-a31c5f47b348"
+version = "2020.2.21+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

@@ -1,0 +1,152 @@
+[[breakpad]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b5313d13205c268f7a29efdb724d7ed43c48b7f6"
+libc = "glibc"
+os = "linux"
+
+    [[breakpad.download]]
+    sha256 = "e07685045bd25e7963db607e107757a7dc9876219a33714fc13677415eb2fb8f"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.i686-linux-gnu-cxx03.tar.gz"
+[[breakpad]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "380747025315f7a3a742c6128c7bd8c275cc382f"
+os = "macos"
+
+    [[breakpad.download]]
+    sha256 = "5f46586fcff435fba5d55705c1dadae5cee5c912468060e5e8c4e2a91dbf9c56"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.x86_64-apple-darwin14-cxx03.tar.gz"
+[[breakpad]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e6bad6a35c9f3a8bb3166408a76b0fb015a00966"
+os = "windows"
+
+    [[breakpad.download]]
+    sha256 = "3e228c261d2d1d523ad820ca94deae7d282288a5ccd565b639339bad4917bc5c"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.x86_64-w64-mingw32-cxx03.tar.gz"
+[[breakpad]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02b4c71ed9789f71e6debccaafdf63e41641a87c"
+libc = "glibc"
+os = "linux"
+
+    [[breakpad.download]]
+    sha256 = "c4eefd0571b7cc7fb6fa549a73a3964de384e957318281c3b62823524fe627b5"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.aarch64-linux-gnu-cxx11.tar.gz"
+[[breakpad]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "756c0effc7f8216aec98281787f576361d5663cf"
+os = "macos"
+
+    [[breakpad.download]]
+    sha256 = "eef66e4bc8417b3c317a0c02cd88348d91c1364a7ea0147ebfa263a0ccbccfb3"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.x86_64-apple-darwin14-cxx11.tar.gz"
+[[breakpad]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4b3f3a4496a64f7f7ec65f9a1252a3ceefa1006d"
+libc = "glibc"
+os = "linux"
+
+    [[breakpad.download]]
+    sha256 = "7a1cfb41a3404bd8174b6f3b87193d994ffa53b880a33ed1813abadc78ca8df7"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[breakpad]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7050452a56ded9612795da43f4e5f2811b8ef8c7"
+libc = "glibc"
+os = "linux"
+
+    [[breakpad.download]]
+    sha256 = "a7c22a28e8e500a10fba2ccc4f882331d4f8fab21cfba947b4a5ff32a17e2873"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.aarch64-linux-gnu-cxx03.tar.gz"
+[[breakpad]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "49e83253a7cf33d5877ac99049e7da7f496b73e7"
+libc = "glibc"
+os = "linux"
+
+    [[breakpad.download]]
+    sha256 = "900570747a3500e1914c0cd8c50d53cb72a44fc8ff3da55f05fc157a3ce97713"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.x86_64-linux-gnu-cxx11.tar.gz"
+[[breakpad]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "80e32984574224103da9ea2e73e268a819632a21"
+os = "freebsd"
+
+    [[breakpad.download]]
+    sha256 = "ca5fa26dc89896d46b286bb9d985363fb3786e6a9f53e2daca9983b577b34a1d"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[breakpad]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9604c95ff3c1603b4dd778d44c7144cc8c1d9e6e"
+libc = "glibc"
+os = "linux"
+
+    [[breakpad.download]]
+    sha256 = "a44b847a5630baf952f04e56542c4ea0e0da3b9d1931e1d35fc00d79a769a3d8"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.i686-linux-gnu-cxx11.tar.gz"
+[[breakpad]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "53e5a5e9309e291e46c468e30043e53cd90cd855"
+os = "windows"
+
+    [[breakpad.download]]
+    sha256 = "4e1d2fdc29fc17ff3e29d0e9d6009908aecc37e8dfa9e380516f626af792f217"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.x86_64-w64-mingw32-cxx11.tar.gz"
+[[breakpad]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a85282f2e6e21fdcad2cb4f0d33350fa7125700"
+libc = "glibc"
+os = "linux"
+
+    [[breakpad.download]]
+    sha256 = "f657f131d90f4c9f9c3049cb5b5a770c34a3317cc89b20f6b84959e913033d67"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.x86_64-linux-gnu-cxx03.tar.gz"
+[[breakpad]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39bb005551ee94b9a5af9ab2d402e78b76849d97"
+os = "freebsd"
+
+    [[breakpad.download]]
+    sha256 = "c42c531b3e3111aa63cd7027e9aeb75295a2f5ba63dfdcdb86e9f1aca98a517c"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[breakpad]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc03e793d9ce1ae2d0a5646735dbaa7706a9c470"
+os = "windows"
+
+    [[breakpad.download]]
+    sha256 = "a09767890c57741d4b221e8b8a1633294c0ae6239bf0bf3b7c12363509e8ae83"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.i686-w64-mingw32-cxx03.tar.gz"
+[[breakpad]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d551950ef191310cd5d7268416230d9b3ca1d0e5"
+os = "windows"
+
+    [[breakpad.download]]
+    sha256 = "1a43891925cc2feef41cdaab78f3900bca346d36505dccabe1e8b947ff4f0a56"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.i686-w64-mingw32-cxx11.tar.gz"
+[[breakpad]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ae46600b31aeabf8c19684690405ac680e5b006"
+libc = "glibc"
+os = "linux"
+
+    [[breakpad.download]]
+    sha256 = "2c2ff6d92125a0c874647385676ce490d9cc44e85d54717b07fab46978d57bdd"
+    url = "https://github.com/JuliaBinaryWrappers/breakpad_jll.jl/releases/download/breakpad-v2020.2.21+0/breakpad.v2020.2.21.armv7l-linux-gnueabihf-cxx11.tar.gz"
